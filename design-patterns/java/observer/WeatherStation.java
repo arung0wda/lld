@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class WeatherStation implements Subject {
     private List<Observer> observers;
     private float temperature;
