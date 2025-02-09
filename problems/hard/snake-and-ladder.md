@@ -11,7 +11,7 @@
 8. The game should handle multiple game sessions concurrently, allowing different groups of players to play independently.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/snakeandladdergame/) 
+#### [Java Implementation](../../solutions/java/src/snakeandladdergame/) 
 #### [Python Implementation](../solutions/python/snakeandladdergame/)
 #### [C# Implementation](../solutions/c%23/SnakeAndLadderGame/)
 #### [Go Implementation](../solutions/golang/snakeandladdergame/)

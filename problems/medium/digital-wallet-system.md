@@ -11,7 +11,7 @@
 8. The system should be scalable to handle a large number of users and transactions.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/digitalwallet/) 
+#### [Java Implementation](../../solutions/java/src/digitalwallet/) 
 #### [Python Implementation](../solutions/python/digitalwallet/)
 #### [C# Implementation](../solutions/c%23/DigitalWallet/)
 #### [Go Implementation](../solutions/golang/digitalwallet/)

@@ -10,7 +10,7 @@
 7. The system should handle concurrent access and ensure data consistency.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/restaurantmanagementsystem/) 
+#### [Java Implementation](../../solutions/java/src/restaurantmanagementsystem/) 
 #### [Python Implementation](../solutions/python/restaurantmanagementsystem/)
 #### [C# Implementation](../solutions/c%23/RestaurantManagementSystem/)
 #### [Go Implementation](../solutions/golang/restaurantmanagementsystem/)

@@ -11,7 +11,7 @@
 8. The system should be able to handle concurrent reservations and ensure data consistency.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/carrentalsystem/) 
+#### [Java Implementation](../../solutions/java/src/carrentalsystem/) 
 #### [Python Implementation](../solutions/python/carrentalsystem/)
 #### [C# Implementation](../solutions/c%23/CarRentalSystem/)
 #### [Go Implementation](../solutions/golang/carrentalsystem/)

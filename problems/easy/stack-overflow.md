@@ -9,7 +9,7 @@
 6. The system should handle concurrent access and ensure data consistency.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/stackoverflow/) 
+#### [Java Implementation](../../solutions/java/src/stackoverflow/) 
 #### [Python Implementation](../solutions/python/stackoverflow/)
 #### [C# Implementation](../solutions/c%23/StackOverflow/)
 #### [Go Implementation](../solutions/golang/stackoverflow/)

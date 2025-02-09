@@ -9,4 +9,8 @@ public class ElevatorSystemDemo {
         controller.requestElevator(8, 2);
         controller.requestElevator(1, 9);
     }
+
+    public static void main(String[] args) {
+        run();
+    }
 }

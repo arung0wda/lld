@@ -11,7 +11,7 @@
 8. The game should provide a user interface for players to interact with the game.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/chessgame/) 
+#### [Java Implementation](../../solutions/java/src/chessgame/) 
 #### [Python Implementation](../solutions/python/chessgame/)
 #### [C# Implementation](../solutions/c%23/ChessGame/)
 #### [Go Implementation](../solutions/golang/chessgame/)

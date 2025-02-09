@@ -8,8 +8,11 @@
 5. The system should track the availability of parking spots and provide real-time information to customers.
 6. The system should handle multiple entry and exit points and support concurrent access.
 
+Extension:
+Generate a parking ticket which includes parking time and charge the user accordingly
+
 ## Implementations
-#### [Java Implementation](../solutions/java/src/parkinglot/) 
+#### [Java Implementation](../../solutions/java/src/parkinglot/) 
 #### [Python Implementation](../solutions/python/parkinglot/)
 #### [C# Implementation](../solutions/c%23/ParkingLot/)
 #### [Go Implementation](../solutions/golang/parkinglot/)

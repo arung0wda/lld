@@ -10,7 +10,7 @@
 7. The system should be extensible to accommodate future enhancements and new features.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/taskmanagementsystem/) 
+#### [Java Implementation](../../solutions/java/src/taskmanagementsystem/) 
 #### [Python Implementation](../solutions/python/taskmanagementsystem/)
 #### [C# Implementation](../solutions/c%23/TaskManagementSystem/)
 #### [Go Implementation](../solutions/golang/taskmanagementsystem/)

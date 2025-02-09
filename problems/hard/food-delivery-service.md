@@ -11,7 +11,7 @@
 8. The system should provide real-time notifications to customers, restaurants, and delivery agents.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/fooddeliveryservice/) 
+#### [Java Implementation](../../solutions/java/src/fooddeliveryservice/) 
 #### [Python Implementation](../solutions/python/fooddeliveryservice/)
 #### [C# Implementation](../solutions/c%23/FoodDeliveryService/)
 #### [Go Implementation](../solutions/golang/fooddeliveryservice/)

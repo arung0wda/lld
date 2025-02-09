@@ -11,7 +11,7 @@
 8. The system should provide a waiting list functionality for sold-out concerts.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/concertbookingsystem/) 
+#### [Java Implementation](../../solutions/java/src/concertbookingsystem/) 
 #### [Python Implementation](../solutions/python/concertbookingsystem/)
 #### [C# Implementation](../solutions/c%23/ConcertBookingSystem/)
 #### [Go Implementation](../solutions/golang/concertbookingsystem/)

@@ -4,7 +4,6 @@ import carrentalsystem.payment.CreditCardPaymentProcessor;
 import carrentalsystem.payment.PaymentProcessor;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.UUID;
@@ -38,15 +37,11 @@ public class RentalSystem {
     }
 
     public List<Car> searchCars(String make, String model, LocalDate startDate, LocalDate endDate) {
-        List<Car> availableCars = new ArrayList<>();
-        for (Car car : cars.values()) {
-            if (car.getMake().equalsIgnoreCase(make) && car.getModel().equalsIgnoreCase(model) && car.isAvailable()) {
-                if (isCarAvailable(car, startDate, endDate)) {
-                    availableCars.add(car);
-                }
-            }
-        }
-        return availableCars;
+        return cars.values().stream()
+                .filter(car -> car.getMake().equalsIgnoreCase(make))
+                .filter(car -> car.getModel().equalsIgnoreCase(model))
+                .filter(Car::isAvailable)
+                .toList();
     }
 
     private boolean isCarAvailable(Car car, LocalDate startDate, LocalDate endDate) {

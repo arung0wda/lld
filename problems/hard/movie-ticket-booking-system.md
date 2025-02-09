@@ -11,7 +11,7 @@
 8. The system should be scalable to handle a large number of concurrent users and bookings.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/movieticketbookingsystem/) 
+#### [Java Implementation](../../solutions/java/src/movieticketbookingsystem/) 
 #### [Python Implementation](../solutions/python/movieticketbookingsystem/)
 #### [C# Implementation](../solutions/c%23/MovieTicketBookingSystem/)
 #### [Go Implementation](../solutions/golang/movieticketbookingsystem/)

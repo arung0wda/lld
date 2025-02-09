@@ -11,7 +11,7 @@
 8. The system should be scalable and extensible to accommodate future enhancements and new features.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/airlinemanagementsystem/) 
+#### [Java Implementation](../../solutions/java/src/airlinemanagementsystem/) 
 #### [Python Implementation](../solutions/python/airlinemanagementsystem/)
 #### [C# Implementation](../solutions/c%23/AirlineManagementSystem/)
 #### [Go Implementation](../solutions/golang/airlinemanagementsystem/)

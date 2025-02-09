@@ -11,7 +11,7 @@
 8. The system should handle concurrent requests and ensure data consistency.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/ridesharingservice/) 
+#### [Java Implementation](../../solutions/java/src/ridesharingservice/) 
 #### [Python Implementation](../solutions/python/ridesharingservice/)
 #### [C# Implementation](../solutions/c%23/RideSharingService/)
 #### [Go Implementation](../solutions/golang/ridesharingservice/)

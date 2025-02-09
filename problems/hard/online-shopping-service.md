@@ -11,7 +11,7 @@
 8. The system should provide a user-friendly interface for a seamless shopping experience.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/onlineshopping/) 
+#### [Java Implementation](../../solutions/java/src/onlineshopping/) 
 #### [Python Implementation](../solutions/python/onlineshopping/)
 #### [C# Implementation](../solutions/c%23/OnlineShoppingService/)
 #### [Go Implementation](../solutions/golang/onlineshopping/)

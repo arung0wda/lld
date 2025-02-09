@@ -10,7 +10,7 @@
 7. The system should ensure thread safety and prevent race conditions when multiple threads interact with the elevators.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/elevatorsystem/) 
+#### [Java Implementation](../../solutions/java/src/elevatorsystem/) 
 #### [Python Implementation](../solutions/python/elevatorsystem/)
 #### [C# Implementation](../solutions/c%23/ElevatorSystem/)
 #### [Go Implementation](../solutions/golang/elevatorsystem/)

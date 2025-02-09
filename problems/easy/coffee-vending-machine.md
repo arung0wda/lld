@@ -10,10 +10,10 @@
 7. The machine should handle multiple user requests concurrently and ensure thread safety.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/coffeevendingmachine/) 
-#### [Python Implementation](../solutions/python/coffeevendingmachine/)
-#### [C# Implementation](../solutions/c%23/CoffeeVendingMachine/)
-#### [Go Implementation](../solutions/golang/coffeevendingmachine/)
+#### [Java Implementation](../../solutions/java/src/coffeevendingmachine/) 
+#### [Python Implementation](../../solutions/python/coffeevendingmachine/)
+#### [C# Implementation](../../solutions/c%23/CoffeeVendingMachine/)
+#### [Go Implementation](../../solutions/golang/coffeevendingmachine/)
 
 ## Classes, Interfaces and Enumerations
 1. The **Coffee** class represents a coffee type with its name, price, and recipe (ingredients and their quantities).

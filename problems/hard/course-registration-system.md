@@ -10,7 +10,7 @@
 7. The system should be extensible to accommodate future enhancements and new features.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/courseregistrationsystem/) 
+#### [Java Implementation](../../solutions/java/src/courseregistrationsystem/) 
 #### [Python Implementation](../solutions/python/courseregistrationsystem/)
 #### [C# Implementation](../solutions/c%23/CourseRegistrationSystem/)
 #### [Go Implementation](../solutions/golang/courseregistrationsystem/)

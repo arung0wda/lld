@@ -11,7 +11,7 @@
 8. The system should be extensible to accommodate future enhancements and new features.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/librarymanagementsystem/) 
+#### [Java Implementation](../../solutions/java/src/librarymanagementsystem/) 
 #### [Python Implementation](../solutions/python/librarymanagementsystem/)
 #### [C# Implementation](../solutions/c%23/LibraryManagementSystem/)
 #### [Go Implementation](../solutions/golang/librarymanagementsystem/)

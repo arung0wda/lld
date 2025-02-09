@@ -11,7 +11,7 @@
 8. The system should be extensible to accommodate new features and enhancements in the future.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/cricinfo/) 
+#### [Java Implementation](../../solutions/java/src/cricinfo/) 
 #### [Python Implementation](../solutions/python/cricinfo/)
 #### [C# Implementation](../solutions/c%23/Cricinfo/)
 #### [Go Implementation](../solutions/golang/cricinfo/)

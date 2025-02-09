@@ -11,7 +11,7 @@
 8. The system should be scalable and handle a large number of rooms and guests.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/hotelmanagement/) 
+#### [Java Implementation](../../solutions/java/src/hotelmanagement/) 
 #### [Python Implementation](../solutions/python/hotelmanagement/)
 #### [C# Implementation](../solutions/c%23/HotelManagementSystem/)
 #### [Go Implementation](../solutions/golang/hotelmanagement/)

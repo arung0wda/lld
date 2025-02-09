@@ -29,7 +29,7 @@
 - The system should be scalable and efficient in terms of resource utilization.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/socialnetworkingservice/) 
+#### [Java Implementation](../../solutions/java/src/socialnetworkingservice/) 
 #### [Python Implementation](../solutions/python/socialnetworkingservice/)
 #### [C# Implementation](../solutions/c%23/SocialNetworkingService/)
 #### [Go Implementation](../solutions/golang/socialnetworkingservice/)

@@ -9,7 +9,7 @@
 6. The ATM should have a user-friendly interface for users to interact with.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/atm/) 
+#### [Java Implementation](../../solutions/java/src/atm/) 
 #### [Python Implementation](../solutions/python/atm/)
 #### [C# Implementation](../solutions/c%23/ATM/)
 #### [Go Implementation](../solutions/golang/atm/)

@@ -9,7 +9,7 @@
 6. The system should be scalable and extensible to support additional features and functionality.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/trafficsignalsystem/) 
+#### [Java Implementation](../../solutions/java/src/trafficsignalsystem/) 
 #### [Python Implementation](../solutions/python/trafficsignalsystem/)
 #### [C# Implementation](../solutions/c%23/TrafficSignalSystem/)
 #### [Go Implementation](../solutions/golang/trafficsignalsystem/)

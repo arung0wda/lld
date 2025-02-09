@@ -9,7 +9,7 @@
 6. It should be extensible to accommodate new log levels and output destinations in the future.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/loggingframework/) 
+#### [Java Implementation](../../solutions/java/src/loggingframework/) 
 #### [Python Implementation](../solutions/python/loggingframework/)
 #### [C# Implementation](../solutions/c%23/LoggingFramework/)
 #### [Go Implementation](../solutions/golang/loggingframework/)

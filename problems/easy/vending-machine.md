@@ -10,7 +10,7 @@
 1. The machine should handle exceptional scenarios, such as insufficient funds or out-of-stock products.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/vendingmachine/) 
+#### [Java Implementation](../../solutions/java/src/vendingmachine/) 
 #### [Python Implementation](../solutions/python/vendingmachine/)
 #### [C# Implementation](../solutions/c%23/VendingMachine/)
 #### [Go Implementation](../solutions/golang/vending_machine/)

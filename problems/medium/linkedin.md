@@ -28,7 +28,7 @@
 - The system should be scalable and efficient in terms of resource utilization.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/linkedin/) 
+#### [Java Implementation](../../solutions/java/src/linkedin/) 
 #### [Python Implementation](../solutions/python/linkedin/)
 #### [C# Implementation](../solutions/c%23/LinkedIn/)
 #### [Go Implementation](../solutions/golang/linkedin/)

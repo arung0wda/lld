@@ -9,7 +9,7 @@
 4. The cache should be efficient in terms of time complexity for both put and get operations, ideally O(1).
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/lrucache/) 
+#### [Java Implementation](../../solutions/java/src/lrucache/) 
 #### [Python Implementation](../solutions/python/lrucache/)
 #### [C# Implementation](../solutions/c%23/LRUCache/)
 #### [Go Implementation](../solutions/golang/lrucache/)
